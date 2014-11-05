@@ -32,7 +32,7 @@ Every time you download a file, or click a link, load a website, connect to a se
 
 The easiest way for someone to run their instructions on your computer is to trick you into running their program. (Duh!)  To prevent that, be careful what programs you run on your computer!  Even some documents can be "infected", and so you should be careful about anything you download and open!
 
-The next easiest way for someone to run their instructions on your computer is if they can get your password, and connect to your computer over the internet.  
+The next easiest way for someone to run their instructions on your computer is if they can get your password, and connect to your computer over the internet.
 
 The easiest way to get your password is to guess it, but that only works if your password is really short!
 
@@ -93,5 +93,9 @@ Computers are very powerful, and if you learn to use them well, you'll be able t
 Remember the internet is a real place, and it's full of people you can't just go around trusting.
 
 Beyond that, go have fun, you've got the world's knowledge at your fingertips, and whenever you have a question, you only need to [Google](http://google.com) it.
+
+## Other Resources
+
+[Common Sense Media](https://www.commonsensemedia.org).  Full of links and articles related to safe and smart interneting for kids.
 
 *Written by Dan Finlay, 2014*
